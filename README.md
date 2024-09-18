@@ -30,7 +30,7 @@ O projeto é dividido em várias classes que representam as principais entidades
 
 2. **Compilar o projeto**: Em um terminal, navegue até o diretório do projeto e execute o seguinte comando:
    ```bash
-   javac LojaCamilaViena.java
+   javac vienastore.java
 
 
 ## Executar o projeto:
